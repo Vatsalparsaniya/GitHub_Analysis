@@ -3,40 +3,44 @@
   
 # Web Scraping
 
-## Context
+## Context 
 
-You can star repositories to keep track of projects you find interesting.
-I have Scraped top stared repositories from GitHub with different topics. I hvae used Python BeautifulSoup to scrape the data . Main motivation behind this data is to analyze top github stared repositories.
+**You can star repositories to keep track of projects you find interesting.**
+I have Scraped top stared repositories from GitHub with different topics. I have used Python BeautifulSoup to scrape the data. The main motivation behind this data is to analyze top GitHub stared repositories.
 
-I have selcted some topics like Data-Science, Machine-Learning, Computer-Vision, etc. Then I have fatched most stared 100 repository details including repository commits,issue,fork, etc.
-Content
+I have selected some topics like Data-Science, Machine-Learning, Computer-Vision, etc. Then I have watched most stared 100 repository details including repository commits, issue, fork, etc.
+ 
+## GitHub 
 
-**There are more then 1500 repository informations.**
+## Content
+There are more than **1500** repository nformation.
 
-## Data contains main 19 columns:
-1) topic: Base word with the help of it fatched repository.
-2) name: repository name.
-3) user: repository user name.
-4) star: stars given by users.
-5) fork: number of fork that specific repository.
-6) watch: repository watch
-7) issue: number of issue in that repository.
-8) pullrequests: number of pull requests
-9) projects: number of projects undrgoing that topictag.
-10) topictag: tages added to repository by user.
-11) discriptiontext: short discription added by user.
-12) discription_url: additional url provide by repository.
-13) commits: number of commits to that repository.
-14) branches: number of different branches of repository.
-15) packages: number of packages.
-16) releases: releases of repository.
-17) contributers: number of user have contributed to repository.
-18) License: name of License.
-19) url:URL of repository.
+Data contains the main 19 columns:
+1) **topic**: A base word with the help of its fetched repository.
+2) **name**: repository name.
+3) **user**: repository user name.
+4) **star**: stars are given by users.
+5) **fork**: number of the fork that specific repository.
+6) **watch**: repository watch
+7) **issue**: number of issue in that repository.
+8) **pull_requests**: number of pull requests 
+9) **projects**: a number of projects undergoing that topic_tag.
+10) **topic_tag**: tag added to the repository by the user.
+11) **discription_text**: short discription added by user.
+12) **discription_url**: additional url provide by repository.
+13) **commits**: number of commits to that repository.
+14) **branches**: a number of different branches of the repository.
+15) **packages**: number of packages.
+16) **releases**: releases of the repository.
+17) **contributors**: a number of users have contributed to the repository.
+18) **License**: name of License.
+19) **url**: URL of the repository.
 
-current repository topics: Data-Science, Machine-Learning, Open-CV, Computer-Vision, GAN, variational-encoder, Android-studio, flutter, JAVA, awesome, javascript, c++
+**current repository topics**: Data-Science, Machine-Learning, Open-CV, Computer-Vision, GAN, variational-encoder, Android-studio, flutter, JAVA, awesome, javascript, c++
 
-stay tuned for more topics.
+**stay tuned for more topics.**
+
+
 
 ## &#x1F4D8; Kaggle Kernel [click here](https://www.kaggle.com/vatsalparsaniya/github-analysis-2020-eda)
 ### &#x1F53C; Please!!! Upvote Kaggle kernel if you find it useful.
