@@ -9,8 +9,6 @@
 I have Scraped top stared repositories from GitHub with different topics. I have used Python BeautifulSoup to scrape the data. The main motivation behind this data is to analyze top GitHub stared repositories.
 
 I have selected some topics like Data-Science, Machine-Learning, Computer-Vision, etc. Then I have watched most stared 100 repository details including repository commits, issue, fork, etc.
- 
-## GitHub 
 
 ## Content
 There are more than **1500** repository nformation.
